@@ -4,7 +4,7 @@ A game controller designed for simulate "Rudder" input in flight simulation game
 Models are uploaded and used to 3D print.
 
 # How to use?
-##Things you need to prepare:
+## Things you need to prepare:
 
   STM32F103RCT6 MCU or same level products if you know how to regenerate code by CubeIDE
   
